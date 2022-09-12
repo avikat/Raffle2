@@ -1,0 +1,242 @@
+[
+  {
+    "dna": "b67ce416d1c5f7602e1d39f48bbb005b07f3d177",
+    "creator": "AP",
+    "category": "Digital Art",
+    "name": "Added Data Example 1",
+    "description": "AP are a collection of 10 randomly generated NFTs that exist on the Hedera network.",
+    "image": "ipfs://LinkIsRepleacedWhenUploadingWithTurtleMoonTools/1.png",
+    "supply": "10",
+    "date": 1661891281446,
+    "edition": 1,
+    "properties": {},
+    "royalties": {
+      "numerator": 5,
+      "denominator": 100,
+      "fallbackFee": 100
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "Turtle Moon Tools"
+  },
+  {
+    "dna": "51c6595c6f37f992ba977b1509ec5cee875dd27f",
+    "creator": "AP",
+    "category": "Digital Art",
+    "name": "Added Data Example 2",
+    "description": "AP are a collection of 10 randomly generated NFTs that exist on the Hedera network.",
+    "image": "ipfs://LinkIsRepleacedWhenUploadingWithTurtleMoonTools/2.png",
+    "supply": "10",
+    "date": 1661891281791,
+    "edition": 2,
+    "properties": {},
+    "royalties": {
+      "numerator": 5,
+      "denominator": 100,
+      "fallbackFee": 100
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "Turtle Moon Tools"
+  },
+  {
+    "dna": "4bf5f81808bb95fb5d1d649ceb04e361db4a0fa6",
+    "creator": "AP",
+    "category": "Digital Art",
+    "name": "Added Data Example 3",
+    "description": "AP are a collection of 10 randomly generated NFTs that exist on the Hedera network.",
+    "image": "ipfs://LinkIsRepleacedWhenUploadingWithTurtleMoonTools/3.png",
+    "supply": "10",
+    "date": 1661891282091,
+    "edition": 3,
+    "properties": {},
+    "royalties": {
+      "numerator": 5,
+      "denominator": 100,
+      "fallbackFee": 100
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "Turtle Moon Tools"
+  },
+  {
+    "dna": "699a98ac19efea636fd2389b3e88b9af04da4d6e",
+    "creator": "AP",
+    "category": "Digital Art",
+    "name": "Added Data Example 4",
+    "description": "AP are a collection of 10 randomly generated NFTs that exist on the Hedera network.",
+    "image": "ipfs://LinkIsRepleacedWhenUploadingWithTurtleMoonTools/4.png",
+    "supply": "10",
+    "date": 1661891282420,
+    "edition": 4,
+    "properties": {},
+    "royalties": {
+      "numerator": 5,
+      "denominator": 100,
+      "fallbackFee": 100
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "Turtle Moon Tools"
+  },
+  {
+    "dna": "aad800ca20e26aff2908d5fadc9d8574a9283607",
+    "creator": "AP",
+    "category": "Digital Art",
+    "name": "Added Data Example 5",
+    "description": "AP are a collection of 10 randomly generated NFTs that exist on the Hedera network.",
+    "image": "ipfs://LinkIsRepleacedWhenUploadingWithTurtleMoonTools/5.png",
+    "supply": "10",
+    "date": 1661891282724,
+    "edition": 5,
+    "properties": {},
+    "royalties": {
+      "numerator": 5,
+      "denominator": 100,
+      "fallbackFee": 100
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "Turtle Moon Tools"
+  }
+]

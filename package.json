@@ -1,0 +1,22 @@
+{
+  "name": "2_create_and_transfer_token",
+  "version": "1.0.0",
+  "description": "1. Create account on hedera developer portal(testnet)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.17.1",
+    "abi-decoder": "^2.4.0",
+    "dotenv": "^16.0.1",
+    "files-from-path": "^0.2.6",
+    "nft.storage": "^7.0.0",
+    "solc": "^0.8.15",
+    "web3": "^1.7.5"
+  }
+}
